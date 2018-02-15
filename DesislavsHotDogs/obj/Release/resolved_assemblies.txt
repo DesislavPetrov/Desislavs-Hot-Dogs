@@ -1,0 +1,14 @@
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs\obj\Release\android\assets\DesislavsHotDogs.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs\obj\Release\android\assets\DesislavsHotDogs.Core.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs\obj\Release\android\assets\Java.Interop.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs\obj\Release\android\assets\Mono.Android.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs\obj\Release\android\assets\System.Core.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs\obj\Release\android\assets\System.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs\obj\Release\android\assets\System.Xml.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs\obj\Release\android\assets\mscorlib.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs\obj\Release\android\assets\System.Net.Http.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs\obj\Release\android\assets\Newtonsoft.Json.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs\obj\Release\android\assets\System.Xml.Linq.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs\obj\Release\android\assets\System.Runtime.Serialization.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs\obj\Release\android\assets\Microsoft.CSharp.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs\obj\Release\android\assets\Mono.Security.dll

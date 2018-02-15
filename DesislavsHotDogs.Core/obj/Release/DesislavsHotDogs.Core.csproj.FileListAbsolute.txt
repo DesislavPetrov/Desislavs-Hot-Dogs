@@ -1,0 +1,15 @@
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs.Core\bin\Release\DesislavsHotDogs.Core.dll.config
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs.Core\bin\Release\DesislavsHotDogs.Core.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs.Core\bin\Release\DesislavsHotDogs.Core.pdb
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs.Core\bin\Release\Newtonsoft.Json.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs.Core\bin\Release\System.Net.Http.Extensions.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs.Core\bin\Release\System.Net.Http.Primitives.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs.Core\bin\Release\Newtonsoft.Json.xml
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs.Core\bin\Release\System.Net.Http.Extensions.xml
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs.Core\bin\Release\System.Net.Http.Primitives.xml
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs.Core\obj\Release\DesislavsHotDogs.Core.csproj.App.config
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs.Core\obj\Release\DesislavsHotDogs.Core.csproj.CoreCompileInputs.cache
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs.Core\obj\Release\DesislavsHotDogs.Core.dll
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs.Core\obj\Release\DesislavsHotDogs.Core.pdb
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs.Core\bin\Release\DesislavsHotDogs.Core.dll.CodeAnalysisLog.xml
+E:\GitHub\Desislavs-Hot-Dogs.git\trunk\DesislavsHotDogs\DesislavsHotDogs.Core\bin\Release\DesislavsHotDogs.Core.dll.lastcodeanalysissucceeded
